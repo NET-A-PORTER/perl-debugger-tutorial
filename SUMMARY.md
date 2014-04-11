@@ -35,4 +35,3 @@ This is a summary of the commands learned in each of the lessons in this tutoria
 * `B [line]` - clear a breakpoint for _line_
 * `B *` - clear all breakpoints
 * `L` - list break/watch/actions
-* `$DB::single = 1` - add a breakpoint to your source code

@@ -99,4 +99,3 @@ way to wind down this lesson.
 * `B [line]` - clear a breakpoint for _line_
 * `B *` - clear all breakpoints
 * `L` - list break/watch/actions
-* `$DB::single = 1` - add a breakpoint to your source code
