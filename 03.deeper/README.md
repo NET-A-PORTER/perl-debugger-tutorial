@@ -79,6 +79,7 @@ breakpoint.
 
 * `s` - step into a function
 * `r` - return from a function
+* `c` - continue execution
 
 # Well done!
 
